@@ -4,6 +4,10 @@ https://github.com/tchapi/markdown-cheatsheet
 https://guides.github.com/features/mastering-markdown  
 https://gist.github.com/shaunlebron/746476e6e7a4d698b373  
 
+# Smiles
+https://github.com/JuniorTour/github-emoji-cheat-sheet  
+https://github.com/bash/emoji -----> https://www.rubys.ninja/emoji/  
+
 Markdown Cheatsheet
 ===================
 
