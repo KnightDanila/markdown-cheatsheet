@@ -8,6 +8,9 @@ https://gist.github.com/shaunlebron/746476e6e7a4d698b373
 https://github.com/JuniorTour/github-emoji-cheat-sheet  
 https://github.com/bash/emoji -----> https://www.rubys.ninja/emoji/  
 
+#images
+https://shields.io/
+
 Markdown Cheatsheet
 ===================
 
