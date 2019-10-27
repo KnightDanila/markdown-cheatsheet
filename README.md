@@ -12,6 +12,9 @@ https://markdown-guide.readthedocs.io/en/latest/index.html
 https://github.com/JuniorTour/github-emoji-cheat-sheet  
 https://github.com/bash/emoji -----> https://www.rubys.ninja/emoji/  
 
+# Math
+https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog
+
 # Images
 https://shields.io/
 
